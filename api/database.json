@@ -1,0 +1,31 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "requests": [
+    {
+      "parentName": "Blake Lively",
+      "childName": "Betty",
+      "numChildren": "12",
+      "partyAddress": "123 Hollywood Way",
+      "partyDate": "2022-12-04",
+      "lengthofParty": "4",
+      "id": 1
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 1,
+      "clownId": 1,
+      "date_created": "11/9/2022",
+      "id": 1
+    }
+  ]
+}
